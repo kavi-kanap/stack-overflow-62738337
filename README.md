@@ -1,4 +1,4 @@
 # stack-overflow-62738337
-Oauth2Login plus FormLogin using spring security
+Oauth2Login + FormLogin https://stackoverflow.com/questions/62738337/spring-boot-oauth2-jwt
 
-https://stackoverflow.com/questions/62738337/spring-boot-oauth2-jwt
+
